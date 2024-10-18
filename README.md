@@ -7,5 +7,4 @@ The route consists of no more than four flight segments (i.e., a maximum of thre
 
 The service is already configured with data from [OpenFlights](https://openflights.org/data.html)
 
-
-* See `https://github.com/aleksandr-suhhinin/airlines-search`
+To run, take a look here: [airlines-search](https://github.com/aleksandr-suhhinin/airlines-search)
